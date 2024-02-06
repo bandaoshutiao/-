@@ -1,1 +1,3 @@
+linux里可以用这个来合并csv，按照列组合起来
+paste -d ',' *feeda*.csv > feeda.pa.combine.ori.csv
 
